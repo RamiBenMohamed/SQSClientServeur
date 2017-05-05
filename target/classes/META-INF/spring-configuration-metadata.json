@@ -1,0 +1,43 @@
+{
+  "hints": [],
+  "properties": [
+    {
+      "sourceType": "me.rami.corePropertiesConfiguration",
+      "name": "lmg.config.param-assumed-role",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "me.rami.corePropertiesConfiguration",
+      "name": "lmg.config.param-queue-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "me.rami.corePropertiesConfiguration",
+      "name": "lmg.config.param-queue-name-new",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "me.rami.corePropertiesConfiguration",
+      "name": "lmg.config.param-queue-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "me.rami.corePropertiesConfiguration",
+      "name": "lmg.config.param-region",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "me.rami.corePropertiesConfiguration",
+      "name": "lmg.config.param-s-name",
+      "defaultValue": "Q1",
+      "type": "java.lang.String"
+    }
+  ],
+  "groups": [
+    {
+      "sourceType": "me.rami.corePropertiesConfiguration",
+      "name": "lmg.config",
+      "type": "me.rami.corePropertiesConfiguration"
+    }
+  ]
+}

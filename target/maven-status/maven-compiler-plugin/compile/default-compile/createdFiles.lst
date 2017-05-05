@@ -1,0 +1,11 @@
+me/rami/UnreadableEventException.class
+me/rami/UnreadableSqsMessageException.class
+me/rami/coreConfiguration.class
+me/rami/corePropertiesConfiguration.class
+me/rami/AWSCredentialProviderLMG.class
+me/rami/coreJMSListenerLmg.class
+me/rami/Application.class
+me/rami/SqsQueue.class
+META-INF/spring-configuration-metadata.json
+me/rami/monServeur.class
+me/rami/coreJMSlmg.class
